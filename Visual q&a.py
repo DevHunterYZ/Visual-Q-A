@@ -1,4 +1,3 @@
-# Import Keras 
 from keras.layers import Conv2D, MaxPooling2D, Flatten
 from keras.layers import Input, LSTM, Embedding, Dense
 from keras.models import Model, Sequential
